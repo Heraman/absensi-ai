@@ -18,40 +18,33 @@
             {"day": 5, "status": "Hadir"},
             {"day": 6, "status": "Izin"},
             {"day": 7, "status": "Hadir"},
-            {"day": 8, "status": "Hadir"},
             {"day": 12, "status": "Hadir"},
             {"day": 13, "status": "Hadir"},
             {"day": 14, "status": "Absen"},
             {"day": 15, "status": "Hadir"},
-            {"day": 16, "status": "Hadir"}
+            {"day": 16, "status": "Hadir"},
+            {"day": 17, "status": "Hadir"},
+            {"day": 18, "status": "Hadir"},
+            {"day": 19, "status": "Absen"}
           ]
         }
       }
     },
     {
-      "id": "S001",
+      "id": "S004",
       "name": "Budi Santoso",
-      "class": "10B",
+      "class": "11B",
       "attendance": {
         "2025": {
-          "04": [
-            {"day": 20, "status": "Hadir"},
-            {"day": 21, "status": "Hadir"},
-            {"day": 22, "status": "Absen"}
-          ],
           "05": [
             {"day": 1, "status": "Hadir"},
-            {"day": 2, "status": "Hadir"},
-            {"day": 3, "status": "Absen"},
-            {"day": 5, "status": "Absen"},
-            {"day": 6, "status": "Izin"},
-            {"day": 7, "status": "Hadir"},
-            {"day": 8, "status": "Hadir"},
-            {"day": 12, "status": "Hadir"},
-            {"day": 13, "status": "Hadir"},
-            {"day": 14, "status": "Absen"},
-            {"day": 15, "status": "Hadir"},
-            {"day": 16, "status": "Hadir"}
+            {"day": 2, "status": "Absen"},
+            {"day": 3, "status": "Hadir"},
+            {"day": 15, "status": "Izin"},
+            {"day": 16, "status": "Hadir"},
+            {"day": 17, "status": "Hadir"},
+            {"day": 18, "status": "Absen"},
+            {"day": 19, "status": "Hadir"}
           ]
         }
       }
@@ -71,15 +64,14 @@
             {"day": 1, "status": "Hadir"},
             {"day": 2, "status": "Hadir"},
             {"day": 3, "status": "Hadir"},
-            {"day": 5, "status": "Hadir"},
-            {"day": 6, "status": "Hadir"},
-            {"day": 7, "status": "Hadir"},
             {"day": 8, "status": "Absen"},
             {"day": 12, "status": "Izin"},
             {"day": 13, "status": "Hadir"},
-            {"day": 14, "status": "Hadir"},
             {"day": 15, "status": "Hadir"},
-            {"day": 16, "status": "Hadir"}
+            {"day": 16, "status": "Hadir"},
+            {"day": 17, "status": "Absen"},
+            {"day": 18, "status": "Hadir"},
+            {"day": 19, "status": "Hadir"}
           ]
         }
       }
@@ -97,7 +89,8 @@
           "05": [
             {"day": 1, "status": "Absen"},
             {"day": 2, "status": "Absen"},
-            {"day": 3, "status": "Hadir"}
+            {"day": 3, "status": "Hadir"},
+            {"day": 19, "status": "Izin"}
           ]
         }
       }
